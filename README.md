@@ -35,13 +35,13 @@ Este projeto consiste em um sistema de gerenciamento de livros chamado "BookSync
 
 ## Autores
 
-- Amanda Oliveira dos Santos - 821141647
-- Eric Luchetti de Albuquerque – 820131372
-- Leonardo Cabral Ramos – 821117874
-- Lucas Bellio Buldrini - 821127483
-- Lucas Ferreira de Queiroz - 821142472
-- Vinicius Conti Sardinha - 821142202
-- Henrique Muller Caroci Silva – 821121412
+- Amanda Oliveira dos Santos 
+- Eric Luchetti de Albuquerque 
+- Leonardo Cabral Ramos 
+- Lucas Bellio Buldrini 
+- Lucas Ferreira de Queiroz 
+- Vinicius Conti Sardinha 
+- Henrique Muller Caroci Silva 
 
 ## Licença
 
